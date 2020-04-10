@@ -11,7 +11,7 @@ namespace PIS_1c
     {
         public void PraznaKlasa()
         {
-
+            int x;
         }
 
     }
