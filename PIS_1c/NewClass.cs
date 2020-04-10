@@ -8,5 +8,6 @@ namespace PIS_1c
 {
     class NewClass
     {
+        int x;
     }
 }
