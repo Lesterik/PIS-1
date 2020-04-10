@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace PIS_1c
 {
+   
     class NewClass
     {
+        public void PraznaKlasa()
+        {
+
+        }
+
     }
 }
