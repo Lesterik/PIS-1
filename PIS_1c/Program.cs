@@ -11,6 +11,7 @@ namespace PIS_1c
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World,Hello,sup");
-        }
+        //Komentar
+}
     }
 }
